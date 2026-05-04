@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on racoonsec</title>
+    <link>http://localhost:1313/racoonsec/posts/</link>
+    <description>Recent content in Posts on racoonsec</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/racoonsec/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example CTF Writeup</title>
+      <link>http://localhost:1313/racoonsec/posts/example-ctf-writeup/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/racoonsec/posts/example-ctf-writeup/</guid>
+      <description>&lt;h1 id=&#34;example-ctf-writeup&#34;&gt;Example CTF Writeup&lt;/h1&gt;&#xA;&lt;p&gt;This is a template for a CTF writeup post. Replace this with your actual challenge details.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;p&gt;Describe the challenge here. What was the objective? What category was it (web, crypto, pwn, reverse, etc.)?&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;h3 id=&#34;step-1-initial-analysis&#34;&gt;Step 1: Initial Analysis&lt;/h3&gt;&#xA;&lt;p&gt;Explain what you found or did first.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-2-key-discovery&#34;&gt;Step 2: Key Discovery&lt;/h3&gt;&#xA;&lt;p&gt;Detail any important findings.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-3-exploitationsolution&#34;&gt;Step 3: Exploitation/Solution&lt;/h3&gt;&#xA;&lt;p&gt;Walk through how you solved it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;flag&#34;&gt;Flag&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;flag{example_flag_here}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tools-used&#34;&gt;Tools Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tool 1&lt;/li&gt;&#xA;&lt;li&gt;Tool 2&lt;/li&gt;&#xA;&lt;li&gt;Tool 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;Reference link 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;Reference link 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/racoonsec/posts/welcome/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/racoonsec/posts/welcome/</guid>
+      <description>&lt;p&gt;This is the first post in the new Hugo site.&lt;/p&gt;&#xA;&lt;p&gt;It confirms that the theme, list pages, and taxonomy pages are wired up correctly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -26,7 +26,7 @@ pagerSize = 8
 [params]
 author = 'Rac00nsie'
 description = 'Security notes, experiments, and writeups.'
-avatar = '/avatar.svg'
+avatar = 'https://avatars.githubusercontent.com/u/166830766?v=4'
 favicon = '/favicon.svg'
 menu_item_separator = ' - '
 
