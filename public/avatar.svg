@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="RacoonSec avatar">
+  <rect width="256" height="256" rx="64" fill="#111827"/>
+  <circle cx="128" cy="120" r="54" fill="#e5e7eb"/>
+  <ellipse cx="98" cy="114" rx="18" ry="24" fill="#374151"/>
+  <ellipse cx="158" cy="114" rx="18" ry="24" fill="#374151"/>
+  <circle cx="110" cy="122" r="7" fill="#111827"/>
+  <circle cx="146" cy="122" r="7" fill="#111827"/>
+  <path d="M108 148c8 10 32 10 40 0" fill="none" stroke="#111827" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 168l-26 24h52z" fill="#9ca3af"/>
+</svg>
